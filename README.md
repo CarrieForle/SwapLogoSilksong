@@ -13,7 +13,10 @@ Install the mod (either manual or via a mod manager) and place a image file name
 └── BepinEx/
     └── plugins/
         └── CarrieForle-SwapLogo/
-            ├── logo.png
+            ├── icon.png
+            ├── logo.png <- your image
+            ├── manifest.json
+            ├── README.md
             ├── SwapLogo.dll
             └── SwapLogo.pdb
 ```
